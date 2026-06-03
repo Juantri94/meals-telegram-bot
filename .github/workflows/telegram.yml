@@ -4,7 +4,7 @@ on:
   schedule:
     # Miércoles 13:30 Madrid
     # GitHub usa UTC
-    - cron: '00 12 * * 3'
+    - cron: '15 12 * * 3'
 
   workflow_dispatch:
 
@@ -16,6 +16,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
