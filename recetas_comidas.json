@@ -1,0 +1,606 @@
+[
+    {
+        "receipt": "Espaguetis con boloñesa de lentejas",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "cebolla",
+                "amount": 78
+            },
+            {
+                "ingredient": "ajo",
+                "amount": 10
+            },
+            {
+                "ingredient": "zanahoria",
+                "amount": 78
+            },
+            {
+                "ingredient": "lentejas cocidas",
+                "amount": 145
+            },
+            {
+                "ingredient": "tomate triturado",
+                "amount": 78
+            },
+            {
+                "ingredient": "pasta seca",
+                "amount": 136
+            }
+        ],
+        "macros": {
+            "kcal": 942,
+            "proteins": 36,
+            "hidratos": 159,
+            "fats": 18
+        }
+    },
+    {
+        "receipt": "Arroz con lentejas al curry con espinacas y cacahuetes",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "cacahuetes",
+                "amount": 19
+            },
+            {
+                "ingredient": "espinacas",
+                "amount": 95
+            },
+            {
+                "ingredient": "cebolla",
+                "amount": 95
+            },
+            {
+                "ingredient": "lentejas cocidas",
+                "amount": 95
+            },
+            {
+                "ingredient": "arroz",
+                "amount": 114
+            },
+            {
+                "ingredient": "tomate rojo",
+                "amount": 189
+            },
+            {
+                "ingredient": "bebida de coco y arroz",
+                "amount": 189
+            }
+        ],
+        "macros": {
+            "kcal": 939,
+            "proteins": 28,
+            "hidratos": 155,
+            "fats": 23
+        }
+    },
+    {
+        "receipt": "Noodles de arroz con brocoli, champiñones, zanahora y salsa de soja",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "noodles de arroz",
+                "amount": 167
+            },
+            {
+                "ingredient": "salsa de soja",
+                "amount": 28
+            },
+            {
+                "ingredient": "brocoli",
+                "amount": 140
+            },
+            {
+                "ingredient": "champiñones",
+                "amount": 140
+            },
+            {
+                "ingredient": "zanahoria",
+                "amount": 140
+            },
+            {
+                "ingredient": "pimiento rojo",
+                "amount": 140
+            }
+        ],
+        "macros": {
+            "kcal": 937,
+            "proteins": 20,
+            "hidratos": 176,
+            "fats": 17
+        }
+    },
+    {
+        "receipt": "Ensalada de pasta con pollo, mozzarella, espinacas y picatostes",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "espinacas",
+                "amount": 71
+            },
+            {
+                "ingredient": "pollo",
+                "amount": 114
+            },
+            {
+                "ingredient": "tomate",
+                "amount": 71
+            },
+            {
+                "ingredient": "picatostes",
+                "amount": 43
+            },
+            {
+                "ingredient": "pasta seca",
+                "amount": 100
+            },
+            {
+                "ingredient": "mozzarella",
+                "amount": 43
+            }
+        ],
+        "macros": {
+            "kcal": 969,
+            "proteins": 55,
+            "hidratos": 131,
+            "fats": 25
+        }
+    },
+    {
+        "receipt": "Arroz con pavo, calabacín, cebolla y anacardos",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "ajo",
+                "amount": 6
+            },
+            {
+                "ingredient": "calabacín",
+                "amount": 128
+            },
+            {
+                "ingredient": "anacardos",
+                "amount": 19
+            },
+            {
+                "ingredient": "cebolla",
+                "amount": 103
+            },
+            {
+                "ingredient": "pavo",
+                "amount": 154
+            },
+            {
+                "ingredient": "arroz",
+                "amount": 154
+            }
+        ],
+        "macros": {
+            "kcal": 960,
+            "proteins": 50,
+            "hidratos": 145,
+            "fats": 20
+        }
+    },
+    {
+        "receipt": "Gnocchi de patata y pollo con berenjena y tomates",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pollo",
+                "amount": 217
+            },
+            {
+                "ingredient": "berenjena",
+                "amount": 108
+            },
+            {
+                "ingredient": "gnocchi de patata",
+                "amount": 390
+            }
+        ],
+        "macros": {
+            "kcal": 967,
+            "proteins": 61,
+            "hidratos": 138,
+            "fats": 19
+        }
+    },
+    {
+        "receipt": "Pasta con pollo y espinacas",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pasta seca",
+                "amount": 187
+            },
+            {
+                "ingredient": "espinacas",
+                "amount": 94
+            },
+            {
+                "ingredient": "ajos",
+                "amount": 8
+            },
+            {
+                "ingredient": "pollo",
+                "amount": 156
+            }
+        ],
+        "macros": {
+            "kcal": 963,
+            "proteins": 61,
+            "hidratos": 146,
+            "fats": 15
+        }
+    },
+    {
+        "receipt": "Arroz con pollo, berenjena y tomates",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pollo",
+                "amount": 251
+            },
+            {
+                "ingredient": "berenjena",
+                "amount": 126
+            },
+            {
+                "ingredient": "arroz",
+                "amount": 151
+            },
+            {
+                "ingredient": "tomates",
+                "amount": 126
+            }
+        ],
+        "macros": {
+            "kcal": 981,
+            "proteins": 66,
+            "hidratos": 132,
+            "fats": 21
+        }
+    },
+    {
+        "receipt": "Pasta con berenjena, tomate y parmesano",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pasta seca",
+                "amount": 131
+            },
+            {
+                "ingredient": "berenjena",
+                "amount": 218
+            },
+            {
+                "ingredient": "queso parmesano",
+                "amount": 33
+            },
+            {
+                "ingredient": "ajo",
+                "amount": 11
+            },
+            {
+                "ingredient": "tomate",
+                "amount": 175
+            }
+        ],
+        "macros": {
+            "kcal": 867,
+            "proteins": 36,
+            "hidratos": 129,
+            "fats": 23
+        }
+    },
+    {
+        "receipt": "Macarrones con queso batido, cebolla, tomates y champiñones shiitake",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pasta seca",
+                "amount": 146
+            },
+            {
+                "ingredient": "cebolla",
+                "amount": 104
+            },
+            {
+                "ingredient": "champiñones shiitake",
+                "amount": 167
+            },
+            {
+                "ingredient": "queso batido 0%",
+                "amount": 63
+            },
+            {
+                "ingredient": "tomates",
+                "amount": 125
+            }
+        ],
+        "macros": {
+            "kcal": 878,
+            "proteins": 31,
+            "hidratos": 139,
+            "fats": 22
+        }
+    },
+    {
+        "receipt": "Arroz a la cubana",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "arroz",
+                "amount": 157
+            },
+            {
+                "ingredient": "tomate",
+                "amount": 98
+            },
+            {
+                "ingredient": "huevo",
+                "amount": 118
+            }
+        ],
+        "macros": {
+            "kcal": 871,
+            "proteins": 28,
+            "hidratos": 138,
+            "fats": 23
+        }
+    },
+    {
+        "receipt": "Risoto de calabaza y queso parmesano",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "calabaza",
+                "amount": 223
+            },
+            {
+                "ingredient": "arroz",
+                "amount": 134
+            },
+            {
+                "ingredient": "Caldo de verduras",
+                "amount": 668
+            },
+            {
+                "ingredient": "queso parmesano",
+                "amount": 33
+            },
+            {
+                "ingredient": "cebolla",
+                "amount": 111
+            }
+        ],
+        "macros": {
+            "kcal": 868,
+            "proteins": 27,
+            "hidratos": 136,
+            "fats": 24
+        }
+    },
+    {
+        "receipt": "Macarrones con boloñesa de pavo",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pasta seca",
+                "amount": 140
+            },
+            {
+                "ingredient": "tomate",
+                "amount": 168
+            },
+            {
+                "ingredient": "pimiento rojo",
+                "amount": 84
+            },
+            {
+                "ingredient": "cebolla",
+                "amount": 84
+            },
+            {
+                "ingredient": "pavo picado",
+                "amount": 140
+            }
+        ],
+        "macros": {
+            "kcal": 873,
+            "proteins": 46,
+            "hidratos": 125,
+            "fats": 21
+        }
+    },
+    {
+        "receipt": "Ensalada de arroz, huevo cocido, tomate, pepinoy aceitunas",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "arroz",
+                "amount": 134
+            },
+            {
+                "ingredient": "maiz dulce",
+                "amount": 67
+            },
+            {
+                "ingredient": "tomates",
+                "amount": 112
+            },
+            {
+                "ingredient": "pepino",
+                "amount": 112
+            },
+            {
+                "ingredient": "aceitunas",
+                "amount": 34
+            },
+            {
+                "ingredient": "huevo cocido",
+                "amount": 134
+            }
+        ],
+        "macros": {
+            "kcal": 952,
+            "proteins": 30,
+            "hidratos": 127,
+            "fats": 36
+        }
+    },
+    {
+        "receipt": "Espaguetis con jamón cocido, tomates, cebolla y nueces",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pasta seca",
+                "amount": 109
+            },
+            {
+                "ingredient": "ajo",
+                "amount": 18
+            },
+            {
+                "ingredient": "cebolla",
+                "amount": 182
+            },
+            {
+                "ingredient": "tomates",
+                "amount": 145
+            },
+            {
+                "ingredient": "jamón cocido",
+                "amount": 91
+            },
+            {
+                "ingredient": "nueces",
+                "amount": 27
+            }
+        ],
+        "macros": {
+            "kcal": 942,
+            "proteins": 41,
+            "hidratos": 118,
+            "fats": 34
+        }
+    },
+    {
+        "receipt": "Macarrones con pesto, parmesano, aguacate y tomates",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pasta seca",
+                "amount": 126
+            },
+            {
+                "ingredient": "queso parmesano",
+                "amount": 31
+            },
+            {
+                "ingredient": "pesto",
+                "amount": 40
+            },
+            {
+                "ingredient": "tomates",
+                "amount": 167
+            },
+            {
+                "ingredient": "aguacate",
+                "amount": 63
+            }
+        ],
+        "macros": {
+            "kcal": 945,
+            "proteins": 34,
+            "hidratos": 119,
+            "fats": 37
+        }
+    },
+    {
+        "receipt": "Espaguetis con tomates, champiñones y almendras",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pasta seca",
+                "amount": 133
+            },
+            {
+                "ingredient": "ajo",
+                "amount": 11
+            },
+            {
+                "ingredient": "tomates",
+                "amount": 178
+            },
+            {
+                "ingredient": "champiñones",
+                "amount": 178
+            },
+            {
+                "ingredient": "almendras",
+                "amount": 44
+            }
+        ],
+        "macros": {
+            "kcal": 942,
+            "proteins": 36,
+            "hidratos": 123,
+            "fats": 34
+        }
+    },
+    {
+        "receipt": "Ensalada de patatas, sardinas, huevo y pepinillos",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "pepinillos",
+                "amount": 67
+            },
+            {
+                "ingredient": "huevo cocido",
+                "amount": 135
+            },
+            {
+                "ingredient": "sardinas en lata",
+                "amount": 135
+            },
+            {
+                "ingredient": "patata cocida",
+                "amount": 381
+            }
+        ],
+        "macros": {
+            "kcal": 810,
+            "proteins": 56,
+            "hidratos": 52,
+            "fats": 42
+        }
+    },
+    {
+        "receipt": "Arroz con solomillo y pepino",
+        "meal": "comida",
+        "ingredients": [
+            {
+                "ingredient": "arroz",
+                "amount": 66
+            },
+            {
+                "ingredient": "solomillo de cerdo",
+                "amount": 248
+            },
+            {
+                "ingredient": "pepino",
+                "amount": 83
+            }
+        ],
+        "macros": {
+            "kcal": 813,
+            "proteins": 55,
+            "hidratos": 56,
+            "fats": 41
+        }
+    }
+]
