@@ -69,7 +69,18 @@ def convertir_a_markdown(dia, contenido):
 
 async def enviar_mensajes():
 
-    bot = Bot(token=TOKEN)
+    request = HTTPXRequest(
+        connection_pool_size=8,
+        read_timeout=60,
+        write_timeout=60,
+        connect_timeout=30,
+        pool_timeout=30
+    )
+
+    bot = Bot(
+        token=TOKEN,
+        request=request
+    )
 
     menu = generar_menu()
 
