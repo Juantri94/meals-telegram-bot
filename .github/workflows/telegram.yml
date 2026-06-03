@@ -4,7 +4,7 @@ on:
   schedule:
     # Miércoles 13:30 Madrid
     # GitHub usa UTC
-    - cron: '*/5 * * * *' # '15 12 * * 3'
+    - cron: '23 13 * * 3'
 
   workflow_dispatch:
 
