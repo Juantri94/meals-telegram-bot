@@ -5,6 +5,7 @@ import re
 import subprocess
 
 from telegram import Bot
+from telegram.request import HTTPXRequest
 from telegram.constants import ParseMode
 
 logging.basicConfig(
