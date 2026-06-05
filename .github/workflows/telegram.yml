@@ -1,11 +1,6 @@
 name: Telegram Weekly Report
 
 on:
-  schedule:
-    # Viernes 13:30 Madrid
-    # GitHub usa UTC
-    - cron: '23 12 * * 5'
-
   workflow_dispatch:
 
 jobs:
