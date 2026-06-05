@@ -245,8 +245,6 @@ for i in "${!dias[@]}"; do
     echo "🌙 Cena: ${mejor_cena}"
     echo "$ingredientes_cena_formateados"
     echo
-    echo "--------------------------------------------------"
-    echo
 
 done
 
