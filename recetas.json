@@ -1,0 +1,2024 @@
+[
+  {
+    "receipt": "Poke bowl con arroz y salmón",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "salmón",
+        "amount": 201
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 120
+      },
+      {
+        "ingredient": "aguacate",
+        "amount": 78
+      }
+    ],
+    "macros": {
+      "kcal": 787,
+      "proteins": 51,
+      "hidratos": 112,
+      "fats": 15
+    },
+    "id": "A3DEA5FE-3E4C-4672-83AE-DE41AE6DFADF"
+  },
+  {
+    "receipt": "Ensalada de pasta, atún, aguacate, tomate y lechuga",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "lechuga",
+        "amount": 35
+      },
+      {
+        "ingredient": "maiz dulce",
+        "amount": 53
+      },
+      {
+        "ingredient": "atún en lata (en agua)",
+        "amount": 106
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 141
+      },
+      {
+        "ingredient": "pasta seca",
+        "amount": 106
+      },
+      {
+        "ingredient": "aguacate",
+        "amount": 53
+      }
+    ],
+    "macros": {
+      "kcal": 784,
+      "proteins": 46,
+      "hidratos": 105,
+      "fats": 20
+    },
+    "id": "F00D496C-C305-425F-8851-BC84B7FB4009"
+  },
+  {
+    "receipt": "Merluza con patata cocida y tomate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "merluza",
+        "amount": 220
+      },
+      {
+        "ingredient": "patata cocida",
+        "amount": 350
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 150
+      }
+    ],
+    "macros": {
+      "kcal": 760,
+      "proteins": 55,
+      "hidratos": 75,
+      "fats": 16
+    },
+    "id": "AAF51CAB-EAF9-40D2-BFDD-C2B1F21F797F"
+  },
+  {
+    "receipt": "Bacalao con patata asada y cebolla",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "bacalao",
+        "amount": 220
+      },
+      {
+        "ingredient": "patata",
+        "amount": 350
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 120
+      }
+    ],
+    "macros": {
+      "kcal": 775,
+      "proteins": 57,
+      "hidratos": 80,
+      "fats": 14
+    },
+    "id": "B14F11D5-9939-49C7-8125-1BD7EC497F18"
+  },
+  {
+    "receipt": "Merluza con garbanzos y espinacas",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "merluza",
+        "amount": 180
+      },
+      {
+        "ingredient": "garbanzos cocidos",
+        "amount": 250
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 120
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 58,
+      "hidratos": 70,
+      "fats": 18
+    },
+    "id": "66CC67A5-4C75-4387-BD6A-641702DE6038"
+  },
+  {
+    "receipt": "Bacalao con lentejas y zanahoria",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "bacalao",
+        "amount": 200
+      },
+      {
+        "ingredient": "lentejas cocidas",
+        "amount": 280
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 120
+      }
+    ],
+    "macros": {
+      "kcal": 805,
+      "proteins": 55,
+      "hidratos": 78,
+      "fats": 17
+    },
+    "id": "D6122911-92B6-4845-AFF5-214F4419B649"
+  },
+  {
+    "receipt": "Merluza con alubias blancas y tomate",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "merluza",
+        "amount": 180
+      },
+      {
+        "ingredient": "alubias blancas cocidas",
+        "amount": 250
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 150
+      }
+    ],
+    "macros": {
+      "kcal": 780,
+      "proteins": 56,
+      "hidratos": 72,
+      "fats": 16
+    },
+    "id": "229793F4-3F81-48E9-A0CC-3AC95A81FF40"
+  },
+  {
+    "receipt": "Arroz con bacalao y pimientos",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 110
+      },
+      {
+        "ingredient": "bacalao",
+        "amount": 200
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 120
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 80
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 54,
+      "hidratos": 92,
+      "fats": 14
+    },
+    "id": "A1D01855-6DDC-4C6B-B89A-398DACE35233"
+  },
+  {
+    "receipt": "Salmón con boniato y aguacate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "salmón",
+        "amount": 180
+      },
+      {
+        "ingredient": "boniato",
+        "amount": 300
+      },
+      {
+        "ingredient": "aguacate",
+        "amount": 70
+      }
+    ],
+    "macros": {
+      "kcal": 820,
+      "proteins": 45,
+      "hidratos": 78,
+      "fats": 32
+    },
+    "id": "7F8B291E-F933-4703-85EA-F1E45BBCB043"
+  },
+  {
+    "receipt": "Sardinas con patata cocida y tomate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "sardinas en lata",
+        "amount": 150
+      },
+      {
+        "ingredient": "patata cocida",
+        "amount": 320
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 150
+      }
+    ],
+    "macros": {
+      "kcal": 810,
+      "proteins": 50,
+      "hidratos": 68,
+      "fats": 30
+    },
+    "id": "4BAB9DAA-616C-4953-8FE2-466EF25CFB30"
+  },
+  {
+    "receipt": "Patata asada con pollo y queso fresco batido",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "patata",
+        "amount": 400
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 180
+      },
+      {
+        "ingredient": "queso fresco batido 0%",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 60,
+      "hidratos": 82,
+      "fats": 17
+    },
+    "id": "305FF76A-C6A9-4F37-9E54-688EFAB7D750"
+  },
+  {
+    "receipt": "Patata cocida con pavo, tomate y aceitunas",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "patata cocida",
+        "amount": 350
+      },
+      {
+        "ingredient": "pavo",
+        "amount": 180
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 150
+      },
+      {
+        "ingredient": "aceitunas",
+        "amount": 30
+      }
+    ],
+    "macros": {
+      "kcal": 785,
+      "proteins": 58,
+      "hidratos": 74,
+      "fats": 20
+    },
+    "id": "E5635212-DF1D-407F-A955-87E140297EB5"
+  },
+  {
+    "receipt": "Boniato asado con pollo y aguacate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "boniato",
+        "amount": 320
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 170
+      },
+      {
+        "ingredient": "aguacate",
+        "amount": 70
+      }
+    ],
+    "macros": {
+      "kcal": 800,
+      "proteins": 54,
+      "hidratos": 80,
+      "fats": 22
+    },
+    "id": "900EE835-AE4D-4CAB-BF20-F85438ED137B"
+  },
+  {
+    "receipt": "Patata cocida con solomillo de cerdo y pepino",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "patata cocida",
+        "amount": 350
+      },
+      {
+        "ingredient": "solomillo de cerdo",
+        "amount": 180
+      },
+      {
+        "ingredient": "pepino",
+        "amount": 120
+      }
+    ],
+    "macros": {
+      "kcal": 795,
+      "proteins": 55,
+      "hidratos": 75,
+      "fats": 22
+    },
+    "id": "9E593005-4C90-43E1-8560-E3200B85DF67"
+  },
+  {
+    "receipt": "Ensalada de garbanzos con pollo y tomate",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "garbanzos cocidos",
+        "amount": 250
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 150
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 150
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 55,
+      "hidratos": 68,
+      "fats": 18
+    },
+    "id": "63CD43C4-1CAC-4F8D-B3D7-C5C1D51464C4"
+  },
+  {
+    "receipt": "Lentejas con pavo y verduras",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "lentejas cocidas",
+        "amount": 300
+      },
+      {
+        "ingredient": "pavo",
+        "amount": 160
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 100
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 80
+      }
+    ],
+    "macros": {
+      "kcal": 805,
+      "proteins": 58,
+      "hidratos": 75,
+      "fats": 16
+    },
+    "id": "489811FD-741E-4B97-A751-CC4B3C1EC985"
+  },
+  {
+    "receipt": "Garbanzos con solomillo de cerdo y espinacas",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "garbanzos cocidos",
+        "amount": 240
+      },
+      {
+        "ingredient": "solomillo de cerdo",
+        "amount": 180
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 120
+      }
+    ],
+    "macros": {
+      "kcal": 810,
+      "proteins": 56,
+      "hidratos": 66,
+      "fats": 24
+    },
+    "id": "E86B262D-7D09-4130-BD92-403234627F50"
+  },
+  {
+    "receipt": "Pasta con merluza, tomate y aceitunas",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 100
+      },
+      {
+        "ingredient": "merluza",
+        "amount": 180
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 150
+      },
+      {
+        "ingredient": "aceitunas",
+        "amount": 30
+      }
+    ],
+    "macros": {
+      "kcal": 785,
+      "proteins": 50,
+      "hidratos": 92,
+      "fats": 18
+    },
+    "id": "485181D1-26F1-4B58-A8AC-5D580B046CE0"
+  },
+  {
+    "receipt": "Pasta con pollo, espinacas y parmesano",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 100
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 150
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 100
+      },
+      {
+        "ingredient": "queso parmesano",
+        "amount": 25
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 58,
+      "hidratos": 88,
+      "fats": 18
+    },
+    "id": "1DEC11E8-54ED-4EB9-90C7-AFA9ADD3DFF8"
+  },
+  {
+    "receipt": "Arroz con ternera, cebolla y pimientos",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 115
+      },
+      {
+        "ingredient": "ternera",
+        "amount": 180
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 100
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 805,
+      "proteins": 54,
+      "hidratos": 92,
+      "fats": 24
+    },
+    "id": "FE0F2B44-7673-45FB-B502-751229639768"
+  },
+  {
+    "receipt": "Arroz con merluza y verduras",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 115
+      },
+      {
+        "ingredient": "merluza",
+        "amount": 200
+      },
+      {
+        "ingredient": "calabacín",
+        "amount": 120
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 780,
+      "proteins": 56,
+      "hidratos": 88,
+      "fats": 12
+    },
+    "id": "6460DB7E-6DA7-4445-940E-864B819FEB86"
+  },
+  {
+    "receipt": "Espaguetis con boloñesa de lentejas",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "cebolla",
+        "amount": 78
+      },
+      {
+        "ingredient": "ajo",
+        "amount": 10
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 78
+      },
+      {
+        "ingredient": "lentejas cocidas",
+        "amount": 145
+      },
+      {
+        "ingredient": "tomate triturado",
+        "amount": 78
+      },
+      {
+        "ingredient": "pasta seca",
+        "amount": 136
+      }
+    ],
+    "macros": {
+      "kcal": 942,
+      "proteins": 36,
+      "hidratos": 159,
+      "fats": 18
+    },
+    "id": "6DC3A350-ECE4-493E-B61C-C3013B9ABBAA"
+  },
+  {
+    "receipt": "Arroz con lentejas al curry con espinacas y cacahuetes",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "cacahuetes",
+        "amount": 19
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 95
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 95
+      },
+      {
+        "ingredient": "lentejas cocidas",
+        "amount": 95
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 114
+      },
+      {
+        "ingredient": "tomate rojo",
+        "amount": 189
+      },
+      {
+        "ingredient": "bebida de coco y arroz",
+        "amount": 189
+      }
+    ],
+    "macros": {
+      "kcal": 939,
+      "proteins": 28,
+      "hidratos": 155,
+      "fats": 23
+    },
+    "id": "FA712E2C-6DE1-4EDE-8666-EA0DABE87979"
+  },
+  {
+    "receipt": "Noodles de arroz con brocoli, champiñones, zanahora y salsa de soja",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "noodles de arroz",
+        "amount": 167
+      },
+      {
+        "ingredient": "salsa de soja",
+        "amount": 28
+      },
+      {
+        "ingredient": "brocoli",
+        "amount": 140
+      },
+      {
+        "ingredient": "champiñones",
+        "amount": 140
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 140
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 140
+      }
+    ],
+    "macros": {
+      "kcal": 937,
+      "proteins": 20,
+      "hidratos": 176,
+      "fats": 17
+    },
+    "id": "69C64775-2F2A-4A8E-8A2E-50CBA625A313"
+  },
+  {
+    "receipt": "Ensalada de pasta con pollo, mozzarella, espinacas y picatostes",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "espinacas",
+        "amount": 71
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 114
+      },
+      {
+        "ingredient": "tomate",
+        "amount": 71
+      },
+      {
+        "ingredient": "picatostes",
+        "amount": 43
+      },
+      {
+        "ingredient": "pasta seca",
+        "amount": 100
+      },
+      {
+        "ingredient": "mozzarella",
+        "amount": 43
+      }
+    ],
+    "macros": {
+      "kcal": 969,
+      "proteins": 55,
+      "hidratos": 131,
+      "fats": 25
+    },
+    "id": "39CF364A-40C8-4D2B-AE51-67424E6E7E10"
+  },
+  {
+    "receipt": "Arroz con pavo, calabacín, cebolla y anacardos",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "ajo",
+        "amount": 6
+      },
+      {
+        "ingredient": "calabacín",
+        "amount": 128
+      },
+      {
+        "ingredient": "anacardos",
+        "amount": 19
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 103
+      },
+      {
+        "ingredient": "pavo",
+        "amount": 154
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 154
+      }
+    ],
+    "macros": {
+      "kcal": 960,
+      "proteins": 50,
+      "hidratos": 145,
+      "fats": 20
+    },
+    "id": "668A6C12-11E5-498E-9EE7-BD963FC020DE"
+  },
+  {
+    "receipt": "Gnocchi de patata y pollo con berenjena y tomates",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pollo",
+        "amount": 217
+      },
+      {
+        "ingredient": "berenjena",
+        "amount": 108
+      },
+      {
+        "ingredient": "gnocchi de patata",
+        "amount": 390
+      }
+    ],
+    "macros": {
+      "kcal": 967,
+      "proteins": 61,
+      "hidratos": 138,
+      "fats": 19
+    },
+    "id": "80E8F59C-EBA4-409F-A58D-358FFA54A4DA"
+  },
+  {
+    "receipt": "Pasta con pollo y espinacas",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 187
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 94
+      },
+      {
+        "ingredient": "ajos",
+        "amount": 8
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 156
+      }
+    ],
+    "macros": {
+      "kcal": 963,
+      "proteins": 61,
+      "hidratos": 146,
+      "fats": 15
+    },
+    "id": "213CF0AE-D5DA-46B3-ABF8-65294DD492BB"
+  },
+  {
+    "receipt": "Arroz con pollo, berenjena y tomates",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pollo",
+        "amount": 251
+      },
+      {
+        "ingredient": "berenjena",
+        "amount": 126
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 151
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 126
+      }
+    ],
+    "macros": {
+      "kcal": 981,
+      "proteins": 66,
+      "hidratos": 132,
+      "fats": 21
+    },
+    "id": "0C3B38B3-269C-4B64-B8ED-51F56B9C00D9"
+  },
+  {
+    "receipt": "Pasta con berenjena, tomate y parmesano",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 131
+      },
+      {
+        "ingredient": "berenjena",
+        "amount": 218
+      },
+      {
+        "ingredient": "queso parmesano",
+        "amount": 33
+      },
+      {
+        "ingredient": "ajo",
+        "amount": 11
+      },
+      {
+        "ingredient": "tomate",
+        "amount": 175
+      }
+    ],
+    "macros": {
+      "kcal": 867,
+      "proteins": 36,
+      "hidratos": 129,
+      "fats": 23
+    },
+    "id": "4CC535AB-0364-4528-AB29-27F90D802BD0"
+  },
+  {
+    "receipt": "Macarrones con queso batido, cebolla, tomates y champiñones shiitake",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 146
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 104
+      },
+      {
+        "ingredient": "champiñones shiitake",
+        "amount": 167
+      },
+      {
+        "ingredient": "queso batido 0%",
+        "amount": 63
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 125
+      }
+    ],
+    "macros": {
+      "kcal": 878,
+      "proteins": 31,
+      "hidratos": 139,
+      "fats": 22
+    },
+    "id": "8DAAFB5B-81F1-4E68-BA3C-1E99C08873EB"
+  },
+  {
+    "receipt": "Arroz a la cubana",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 157
+      },
+      {
+        "ingredient": "tomate",
+        "amount": 98
+      },
+      {
+        "ingredient": "huevo",
+        "amount": 118
+      }
+    ],
+    "macros": {
+      "kcal": 871,
+      "proteins": 28,
+      "hidratos": 138,
+      "fats": 23
+    },
+    "id": "158887A6-5489-4488-B913-A69CAD491937"
+  },
+  {
+    "receipt": "Risoto de calabaza y queso parmesano",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "calabaza",
+        "amount": 223
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 134
+      },
+      {
+        "ingredient": "Caldo de verduras",
+        "amount": 668
+      },
+      {
+        "ingredient": "queso parmesano",
+        "amount": 33
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 111
+      }
+    ],
+    "macros": {
+      "kcal": 868,
+      "proteins": 27,
+      "hidratos": 136,
+      "fats": 24
+    },
+    "id": "E8AB3F28-63FA-4216-A9D6-C87E5E2E9218"
+  },
+  {
+    "receipt": "Macarrones con boloñesa de pavo",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 140
+      },
+      {
+        "ingredient": "tomate",
+        "amount": 168
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 84
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 84
+      },
+      {
+        "ingredient": "pavo picado",
+        "amount": 140
+      }
+    ],
+    "macros": {
+      "kcal": 873,
+      "proteins": 46,
+      "hidratos": 125,
+      "fats": 21
+    },
+    "id": "8B94BE00-69B2-434A-9961-5A6016719279"
+  },
+  {
+    "receipt": "Ensalada de arroz, huevo cocido, tomate, pepinoy aceitunas",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 134
+      },
+      {
+        "ingredient": "maiz dulce",
+        "amount": 67
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 112
+      },
+      {
+        "ingredient": "pepino",
+        "amount": 112
+      },
+      {
+        "ingredient": "aceitunas",
+        "amount": 34
+      },
+      {
+        "ingredient": "huevo cocido",
+        "amount": 134
+      }
+    ],
+    "macros": {
+      "kcal": 952,
+      "proteins": 30,
+      "hidratos": 127,
+      "fats": 36
+    },
+    "id": "282CACC2-BF96-49B2-9A26-B39CAB7E44EB"
+  },
+  {
+    "receipt": "Espaguetis con jamón cocido, tomates, cebolla y nueces",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 109
+      },
+      {
+        "ingredient": "ajo",
+        "amount": 18
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 182
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 145
+      },
+      {
+        "ingredient": "jamón cocido",
+        "amount": 91
+      },
+      {
+        "ingredient": "nueces",
+        "amount": 27
+      }
+    ],
+    "macros": {
+      "kcal": 942,
+      "proteins": 41,
+      "hidratos": 118,
+      "fats": 34
+    },
+    "id": "7D703E0C-550B-4BCB-AC40-1D3FD0834B06"
+  },
+  {
+    "receipt": "Macarrones con pesto, parmesano, aguacate y tomates",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 126
+      },
+      {
+        "ingredient": "queso parmesano",
+        "amount": 31
+      },
+      {
+        "ingredient": "pesto",
+        "amount": 40
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 167
+      },
+      {
+        "ingredient": "aguacate",
+        "amount": 63
+      }
+    ],
+    "macros": {
+      "kcal": 945,
+      "proteins": 34,
+      "hidratos": 119,
+      "fats": 37
+    },
+    "id": "1CB10EA4-3646-4C23-9D35-D8BFC63E327A"
+  },
+  {
+    "receipt": "Espaguetis con tomates, champiñones y almendras",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 133
+      },
+      {
+        "ingredient": "ajo",
+        "amount": 11
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 178
+      },
+      {
+        "ingredient": "champiñones",
+        "amount": 178
+      },
+      {
+        "ingredient": "almendras",
+        "amount": 44
+      }
+    ],
+    "macros": {
+      "kcal": 942,
+      "proteins": 36,
+      "hidratos": 123,
+      "fats": 34
+    },
+    "id": "361A9D6C-0A93-4571-9181-F98D23E68234"
+  },
+  {
+    "receipt": "Ensalada de patatas, sardinas, huevo y pepinillos",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pepinillos",
+        "amount": 67
+      },
+      {
+        "ingredient": "huevo cocido",
+        "amount": 135
+      },
+      {
+        "ingredient": "sardinas en lata",
+        "amount": 135
+      },
+      {
+        "ingredient": "patata cocida",
+        "amount": 381
+      }
+    ],
+    "macros": {
+      "kcal": 810,
+      "proteins": 56,
+      "hidratos": 52,
+      "fats": 42
+    },
+    "id": "A21F5C52-001A-4FEF-80B7-1577FE4286BA"
+  },
+  {
+    "receipt": "Arroz con solomillo y pepino",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 66
+      },
+      {
+        "ingredient": "solomillo de cerdo",
+        "amount": 248
+      },
+      {
+        "ingredient": "pepino",
+        "amount": 83
+      }
+    ],
+    "macros": {
+      "kcal": 813,
+      "proteins": 55,
+      "hidratos": 56,
+      "fats": 41
+    },
+    "id": "1DA4B7AB-9EA5-4AC8-AC29-838981F5D3EB"
+  },
+  {
+    "receipt": "Pizza jamon york y queso",
+    "meal": "cena",
+    "ingredients": [],
+    "macros": {
+      "kcal": 813,
+      "proteins": 55,
+      "hidratos": 56,
+      "fats": 41
+    },
+    "id": "1DAO37AB-9EA5-9DC8-AC29-831JS7F5D3EB"
+  },
+  {
+    "receipt": "Quinoa con pollo, pimiento y calabacín",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "quinoa",
+        "amount": 90
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 180
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 100
+      },
+      {
+        "ingredient": "calabacín",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 795,
+      "proteins": 58,
+      "hidratos": 75,
+      "fats": 18
+    },
+    "id": "C212CFC2-D398-44F9-87A2-4EFDF647A951"
+  },
+  {
+    "receipt": "Lentejas estofadas con pavo y pimiento",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "lentejas cocidas",
+        "amount": 280
+      },
+      {
+        "ingredient": "pavo",
+        "amount": 160
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 100
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 80
+      }
+    ],
+    "macros": {
+      "kcal": 800,
+      "proteins": 56,
+      "hidratos": 78,
+      "fats": 16
+    },
+    "id": "39CEE098-418A-4E07-B17D-4389E14B318A"
+  },
+  {
+    "receipt": "Arroz con gambas, ajo y guisantes",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 130
+      },
+      {
+        "ingredient": "gambas",
+        "amount": 200
+      },
+      {
+        "ingredient": "guisantes",
+        "amount": 100
+      },
+      {
+        "ingredient": "ajo",
+        "amount": 10
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 50,
+      "hidratos": 110,
+      "fats": 12
+    },
+    "id": "8FE7529A-5BB1-4E05-A8B4-5BD277DBBDE0"
+  },
+  {
+    "receipt": "Ensalada de garbanzos, atún y pimiento",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "garbanzos cocidos",
+        "amount": 250
+      },
+      {
+        "ingredient": "atún en lata (en agua)",
+        "amount": 120
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 100
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 50
+      }
+    ],
+    "macros": {
+      "kcal": 785,
+      "proteins": 52,
+      "hidratos": 76,
+      "fats": 18
+    },
+    "id": "D419450C-D600-4779-80C2-DA2EB1644FC4"
+  },
+  {
+    "receipt": "Pasta integral con pavo, calabacín y tomate",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta integral seca",
+        "amount": 110
+      },
+      {
+        "ingredient": "pavo picado",
+        "amount": 150
+      },
+      {
+        "ingredient": "calabacín",
+        "amount": 120
+      },
+      {
+        "ingredient": "tomate triturado",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 810,
+      "proteins": 50,
+      "hidratos": 100,
+      "fats": 18
+    },
+    "id": "A226FB12-C2D3-4A23-9420-091FABC27316"
+  },
+  {
+    "receipt": "Pollo al curry con arroz basmati y espinacas",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pollo",
+        "amount": 180
+      },
+      {
+        "ingredient": "arroz basmati",
+        "amount": 110
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 100
+      },
+      {
+        "ingredient": "leche de coco",
+        "amount": 80
+      }
+    ],
+    "macros": {
+      "kcal": 870,
+      "proteins": 54,
+      "hidratos": 95,
+      "fats": 26
+    },
+    "id": "4CC90277-32D6-4A73-BEA8-E18D0BC30FAD"
+  },
+  {
+    "receipt": "Garbanzos con espinacas y huevo",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "garbanzos cocidos",
+        "amount": 260
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 120
+      },
+      {
+        "ingredient": "huevo cocido",
+        "amount": 100
+      },
+      {
+        "ingredient": "ajo",
+        "amount": 8
+      }
+    ],
+    "macros": {
+      "kcal": 760,
+      "proteins": 38,
+      "hidratos": 80,
+      "fats": 22
+    },
+    "id": "56EB2677-7DC2-419F-854A-9D717E735230"
+  },
+  {
+    "receipt": "Arroz con salmón, brócoli y soja",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 110
+      },
+      {
+        "ingredient": "salmón",
+        "amount": 180
+      },
+      {
+        "ingredient": "brocoli",
+        "amount": 130
+      },
+      {
+        "ingredient": "salsa de soja",
+        "amount": 20
+      }
+    ],
+    "macros": {
+      "kcal": 845,
+      "proteins": 50,
+      "hidratos": 90,
+      "fats": 28
+    },
+    "id": "9614A8C7-9F38-44E7-9D88-882EA225B379"
+  },
+  {
+    "receipt": "Alubias blancas con pollo y zanahoria",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "alubias blancas cocidas",
+        "amount": 260
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 160
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 100
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 70
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 56,
+      "hidratos": 76,
+      "fats": 16
+    },
+    "id": "6A5A6C99-7AB8-4A35-8F59-B2C4018B13AA"
+  },
+  {
+    "receipt": "Ensalada de pasta con pavo, maíz y aguacate",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "pasta seca",
+        "amount": 110
+      },
+      {
+        "ingredient": "pavo",
+        "amount": 150
+      },
+      {
+        "ingredient": "maiz dulce",
+        "amount": 60
+      },
+      {
+        "ingredient": "aguacate",
+        "amount": 60
+      }
+    ],
+    "macros": {
+      "kcal": 830,
+      "proteins": 48,
+      "hidratos": 100,
+      "fats": 22
+    },
+    "id": "7715C21E-F2F7-459D-A1EF-E6BDFAE102BF"
+  },
+  {
+    "receipt": "Arroz con merluza, guisantes y zanahoria",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 115
+      },
+      {
+        "ingredient": "merluza",
+        "amount": 200
+      },
+      {
+        "ingredient": "guisantes",
+        "amount": 90
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 90
+      }
+    ],
+    "macros": {
+      "kcal": 780,
+      "proteins": 56,
+      "hidratos": 92,
+      "fats": 12
+    },
+    "id": "699FEC7C-A2A6-435A-AF7A-AF3EE22AC7DB"
+  },
+  {
+    "receipt": "Boniato asado con solomillo de cerdo y pimientos",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "boniato",
+        "amount": 300
+      },
+      {
+        "ingredient": "solomillo de cerdo",
+        "amount": 180
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 805,
+      "proteins": 54,
+      "hidratos": 80,
+      "fats": 18
+    },
+    "id": "86CDF967-9898-4958-BB8C-BA3F83DAB5A7"
+  },
+  {
+    "receipt": "Cuscús con pollo, calabacín y pasas",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "cuscús",
+        "amount": 110
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 170
+      },
+      {
+        "ingredient": "calabacín",
+        "amount": 110
+      },
+      {
+        "ingredient": "pasas",
+        "amount": 20
+      }
+    ],
+    "macros": {
+      "kcal": 815,
+      "proteins": 52,
+      "hidratos": 98,
+      "fats": 14
+    },
+    "id": "4B9F7733-FEC1-4C25-BF94-C2DD117B5890"
+  },
+  {
+    "receipt": "Patatas guisadas con bacalao y guisantes",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "patata",
+        "amount": 350
+      },
+      {
+        "ingredient": "bacalao",
+        "amount": 200
+      },
+      {
+        "ingredient": "guisantes",
+        "amount": 100
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 70
+      }
+    ],
+    "macros": {
+      "kcal": 780,
+      "proteins": 54,
+      "hidratos": 84,
+      "fats": 14
+    },
+    "id": "33D266FF-71F8-4E37-AC17-4C9C0D77E872"
+  },
+  {
+    "receipt": "Risotto de champiñones con pollo y parmesano",
+    "meal": "comida",
+    "ingredients": [
+      {
+        "ingredient": "arroz",
+        "amount": 130
+      },
+      {
+        "ingredient": "champiñones",
+        "amount": 150
+      },
+      {
+        "ingredient": "pollo",
+        "amount": 150
+      },
+      {
+        "ingredient": "queso parmesano",
+        "amount": 25
+      }
+    ],
+    "macros": {
+      "kcal": 870,
+      "proteins": 56,
+      "hidratos": 100,
+      "fats": 20
+    },
+    "id": "5E8A7979-7C20-4A60-9036-3C0AD62DF66F"
+  },
+  {
+    "receipt": "Dorada al horno con patata y limón",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "dorada",
+        "amount": 220
+      },
+      {
+        "ingredient": "patata cocida",
+        "amount": 320
+      },
+      {
+        "ingredient": "limón",
+        "amount": 30
+      }
+    ],
+    "macros": {
+      "kcal": 760,
+      "proteins": 54,
+      "hidratos": 70,
+      "fats": 16
+    },
+    "id": "B410D38C-99A8-4491-A061-B16BDD414C66"
+  },
+  {
+    "receipt": "Tortilla de patata light con ensalada de tomate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "patata",
+        "amount": 300
+      },
+      {
+        "ingredient": "huevo",
+        "amount": 150
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 150
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 60
+      }
+    ],
+    "macros": {
+      "kcal": 770,
+      "proteins": 38,
+      "hidratos": 78,
+      "fats": 28
+    },
+    "id": "C1146A1C-14B5-4BC0-B56F-4A5A2FD494CA"
+  },
+  {
+    "receipt": "Pollo a la plancha con boniato y espárragos",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "pollo",
+        "amount": 180
+      },
+      {
+        "ingredient": "boniato",
+        "amount": 280
+      },
+      {
+        "ingredient": "espárragos",
+        "amount": 120
+      }
+    ],
+    "macros": {
+      "kcal": 785,
+      "proteins": 56,
+      "hidratos": 76,
+      "fats": 14
+    },
+    "id": "079A2474-8571-4B7B-81BF-F63E52691B5D"
+  },
+  {
+    "receipt": "Salmón al horno con espinacas y patata",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "salmón",
+        "amount": 190
+      },
+      {
+        "ingredient": "patata cocida",
+        "amount": 280
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 110
+      }
+    ],
+    "macros": {
+      "kcal": 800,
+      "proteins": 50,
+      "hidratos": 70,
+      "fats": 28
+    },
+    "id": "0F6A6C06-DD44-4F62-BD5E-DD61489F765F"
+  },
+  {
+    "receipt": "Lentejas con verduras y huevo cocido",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "lentejas cocidas",
+        "amount": 270
+      },
+      {
+        "ingredient": "huevo cocido",
+        "amount": 100
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 100
+      },
+      {
+        "ingredient": "cebolla",
+        "amount": 70
+      }
+    ],
+    "macros": {
+      "kcal": 770,
+      "proteins": 42,
+      "hidratos": 82,
+      "fats": 20
+    },
+    "id": "795012FF-7BA1-46E8-8D51-22778EAAAF4D"
+  },
+  {
+    "receipt": "Pavo a la plancha con champiñones y arroz",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "pavo",
+        "amount": 180
+      },
+      {
+        "ingredient": "champiñones",
+        "amount": 140
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 58,
+      "hidratos": 80,
+      "fats": 14
+    },
+    "id": "16C96E93-E26E-4C71-84C1-36A678C802E9"
+  },
+  {
+    "receipt": "Merluza con verduras al vapor y patata",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "merluza",
+        "amount": 220
+      },
+      {
+        "ingredient": "patata cocida",
+        "amount": 300
+      },
+      {
+        "ingredient": "brocoli",
+        "amount": 110
+      },
+      {
+        "ingredient": "zanahoria",
+        "amount": 80
+      }
+    ],
+    "macros": {
+      "kcal": 775,
+      "proteins": 56,
+      "hidratos": 76,
+      "fats": 12
+    },
+    "id": "F02FF891-431A-4818-B6E9-C8F51C2E24CF"
+  },
+  {
+    "receipt": "Garbanzos con bacalao desalado y pimiento",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "garbanzos cocidos",
+        "amount": 240
+      },
+      {
+        "ingredient": "bacalao",
+        "amount": 190
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 56,
+      "hidratos": 70,
+      "fats": 18
+    },
+    "id": "C96F201B-0F63-42F4-BE0F-010F63C21F17"
+  },
+  {
+    "receipt": "Pollo al limón con patata asada y pepino",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "pollo",
+        "amount": 180
+      },
+      {
+        "ingredient": "patata",
+        "amount": 320
+      },
+      {
+        "ingredient": "pepino",
+        "amount": 110
+      },
+      {
+        "ingredient": "limón",
+        "amount": 20
+      }
+    ],
+    "macros": {
+      "kcal": 800,
+      "proteins": 58,
+      "hidratos": 80,
+      "fats": 14
+    },
+    "id": "42E1E735-D781-4FCD-82DA-D8F9619DC37E"
+  },
+  {
+    "receipt": "Atún a la plancha con boniato y tomate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "atún fresco",
+        "amount": 180
+      },
+      {
+        "ingredient": "boniato",
+        "amount": 290
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 130
+      }
+    ],
+    "macros": {
+      "kcal": 770,
+      "proteins": 52,
+      "hidratos": 74,
+      "fats": 16
+    },
+    "id": "99006D88-602D-460B-BCF8-908ADB6FEFA9"
+  },
+  {
+    "receipt": "Solomillo de cerdo con champiñones y arroz",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "solomillo de cerdo",
+        "amount": 180
+      },
+      {
+        "ingredient": "champiñones",
+        "amount": 130
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 795,
+      "proteins": 54,
+      "hidratos": 78,
+      "fats": 20
+    },
+    "id": "10578376-85FC-409F-8D64-279142277723"
+  },
+  {
+    "receipt": "Bacalao con arroz y espinacas",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "bacalao",
+        "amount": 210
+      },
+      {
+        "ingredient": "arroz",
+        "amount": 105
+      },
+      {
+        "ingredient": "espinacas",
+        "amount": 110
+      }
+    ],
+    "macros": {
+      "kcal": 775,
+      "proteins": 55,
+      "hidratos": 78,
+      "fats": 12
+    },
+    "id": "F27A649F-77FF-4205-8FE2-7E2758A7522C"
+  },
+  {
+    "receipt": "Sardinas al horno con patata cocida y pimiento",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "sardinas frescas",
+        "amount": 200
+      },
+      {
+        "ingredient": "patata cocida",
+        "amount": 300
+      },
+      {
+        "ingredient": "pimiento rojo",
+        "amount": 100
+      }
+    ],
+    "macros": {
+      "kcal": 800,
+      "proteins": 50,
+      "hidratos": 72,
+      "fats": 28
+    },
+    "id": "6D9FA8B2-009D-4BB4-B0E1-CC0D3C4D2DD6"
+  },
+  {
+    "receipt": "Pechuga de pollo con alubias y tomate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "pollo",
+        "amount": 180
+      },
+      {
+        "ingredient": "alubias blancas cocidas",
+        "amount": 250
+      },
+      {
+        "ingredient": "tomates",
+        "amount": 140
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 58,
+      "hidratos": 72,
+      "fats": 16
+    },
+    "id": "65E6E92F-28CA-432A-AD1D-15A2F9ECF624"
+  },
+  {
+    "receipt": "Merluza con boniato y aguacate",
+    "meal": "cena",
+    "ingredients": [
+      {
+        "ingredient": "merluza",
+        "amount": 210
+      },
+      {
+        "ingredient": "boniato",
+        "amount": 280
+      },
+      {
+        "ingredient": "aguacate",
+        "amount": 65
+      }
+    ],
+    "macros": {
+      "kcal": 790,
+      "proteins": 50,
+      "hidratos": 74,
+      "fats": 24
+    },
+    "id": "FE53A715-989F-4214-B815-B5CF084E785F"
+  }
+]
