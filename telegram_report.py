@@ -19,7 +19,8 @@ logging.basicConfig(
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CANAL_ID = int(os.environ["TELEGRAM_CHANNEL_ID"])
 
-HISTORIAL_JSON = Path("historial_semanas.json")
+REPO_DIR = Path(__file__).parent.resolve()
+HISTORIAL_JSON = REPO_DIR / "historial_semanas.json"
 
 DIAS = [
     "Lunes",
@@ -35,23 +36,17 @@ MARCADOR_CENAS = "###IDS_CENAS###"
 
 def generar_menu():
     resultado = subprocess.run(
-        ["bash", "./randomComida.sh"],
+        ["bash", str(REPO_DIR / "randomComida.sh")],
         capture_output=True,
         text=True,
-        check=True
+        check=True,
+        cwd=REPO_DIR
     )
 
     return resultado.stdout
 
 
 def parsear_salida(texto):
-    """
-    Separa la salida del Bash en:
-    - mensaje: todo el texto anterior a ###IDS_COMIDAS### (esto es lo que se envía a Telegram)
-    - comidas: lista de 5 UUID
-    - cenas: lista de 5 UUID
-    """
-
     if MARCADOR_COMIDAS not in texto:
         raise ValueError(f"No se encontró el marcador {MARCADOR_COMIDAS} en la salida del script")
 
@@ -135,13 +130,15 @@ def actualizar_historial(comidas, cenas):
 def commit_y_push():
     subprocess.run(
         ["git", "add", str(HISTORIAL_JSON)],
-        check=True
+        check=True,
+        cwd=REPO_DIR
     )
 
     resultado = subprocess.run(
         ["git", "commit", "-m", "Actualizar historial semanal"],
         capture_output=True,
-        text=True
+        text=True,
+        cwd=REPO_DIR
     )
 
     if resultado.returncode != 0:
@@ -154,7 +151,8 @@ def commit_y_push():
 
     subprocess.run(
         ["git", "push"],
-        check=True
+        check=True,
+        cwd=REPO_DIR
     )
 
     logging.info("Commit y push realizados correctamente")
