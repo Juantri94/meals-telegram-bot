@@ -3,6 +3,9 @@ name: Telegram Weekly Report
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   send-message:
     runs-on: ubuntu-latest

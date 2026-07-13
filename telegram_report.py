@@ -129,6 +129,18 @@ def actualizar_historial(comidas, cenas):
 
 def commit_y_push():
     subprocess.run(
+        ["git", "config", "user.name", "github-actions"],
+        check=True,
+        cwd=REPO_DIR
+    )
+
+    subprocess.run(
+        ["git", "config", "user.email", "github-actions@github.com"],
+        check=True,
+        cwd=REPO_DIR
+    )
+
+    subprocess.run(
         ["git", "add", str(HISTORIAL_JSON)],
         check=True,
         cwd=REPO_DIR
@@ -142,7 +154,7 @@ def commit_y_push():
     )
 
     if resultado.returncode != 0:
-        if "nothing to commit" in resultado.stdout.lower() or "nothing to commit" in resultado.stderr.lower():
+        if "nothing to commit" in resultado.stdout.lower() or "nothing to commit" in resultado.stderr.lower() or "nothing added" in resultado.stdout.lower() or "nothing added" in resultado.stderr.lower():
             logging.info("No había cambios que commitear en historial_semanas.json")
             return
         raise subprocess.CalledProcessError(
@@ -218,14 +230,13 @@ async def main():
         logging.error("Error al parsear la salida del script: %s", e)
         return
 
+    await enviar_menu_telegram(mensaje)
+
     try:
         actualizar_historial(comidas, cenas)
         commit_y_push()
     except Exception as e:
         logging.error("Error al actualizar/commitear el historial: %s", e)
-        return
-
-    await enviar_menu_telegram(mensaje)
 
 
 if __name__ == "__main__":
